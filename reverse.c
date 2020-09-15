@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int rev() {
     int n, rev = 0, remainder;
     printf("Enter an integer: ");
     scanf("%d", &n);
